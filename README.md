@@ -1,7 +1,8 @@
-# board
+# web board
 
-web board project and is made for my portofolio 
-this project is based on the book from author <https://jojoldu.tistory.com/463>
+made for my portofolio 
+
+based on the book <https://jojoldu.tistory.com/463>
 
 ## technology
 
